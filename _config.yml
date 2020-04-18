@@ -1,0 +1,31 @@
+collections:
+  my_categories:
+    output: true
+    permalink: /category/:name/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_categories
+    values:
+      layout: default
+
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+permalink: /:title/
+
+plugins:
+  - jemoji
+
+emoji:
+  src: "https://github.githubassets.com/images/icons/"
+
+name: bridgehouse.academy
+description: Bridge House Academy
+url: https://bridgehouse.academy

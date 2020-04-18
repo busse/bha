@@ -1,2 +1,2 @@
-# bha
-Bridge House Academy site
+# Bridge House Academy
+https://bridgehouse.academy
