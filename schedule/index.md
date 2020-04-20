@@ -28,11 +28,11 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
     <tr>
       <th scope="col">Time</th>
       <th scope="col">Block</th>
-      <th scope="col">Monday 4/13</th>
-      <th scope="col">Tuesday 4/14</th>
-      <th scope="col">Wednesday 4/15</th>
-      <th scope="col">Thursday 4/16</th>
-      <th scope="col">Friday 4/17</th>
+      <th scope="col">Monday 4/20</th>
+      <th scope="col">Tuesday 4/21</th>
+      <th scope="col">Wednesday 4/22</th>
+      <th scope="col">Thursday 4/23</th>
+      <th scope="col">Friday 4/24</th>
     </tr>
   </thead>
 <tbody>	
