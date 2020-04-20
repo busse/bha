@@ -9,7 +9,7 @@ Weekly schedules are posted in reverse-chronological order so that the current w
 
 ## <a name="#week2">Week 2: April 20 - April 24</a>
 
-Week 2 continues many of the themes of Week 1, although the School Identity project has wrapped up and will be unveiled soon. Looking back, Block 3 had evolved into two defacto blocks: 30m Duolingo, 60m other individual activities. The schedule structure  has been adjusted to split that respectively into Block 3  (language) and Block 4 (individual) with the old Block 4 (PE) now identified as Block 5.
+Week 2 continues many of the themes of Week 1, although the School Identity project has wrapped up and the outputs will be unveiled soon. Looking back, Block 3 had evolved into two defacto blocks: 30m Duolingo, 60m other individual activities. The schedule structure  has been adjusted to split that respectively into Block 3  (language) and Block 4 (individual) with the old Block 4 (PE) now identified as Block 5.
 
 ### Curriculum Focus
 
@@ -58,8 +58,8 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 <tr>
 	<td class="currTime">10:30am - 12:00pm</td>
 	<th class="currBlock">Block 2 (group)</th>
-	<td class="currMon">BHA Building Survey</td>
-	<td class="currTue">BHA Building Survey</td>
+	<td class="currMon">BHA Building Survey (draw.io)</td>
+	<td class="currTue">BHA Building Survey (draw.io)</td>
 	<td class="currWed">TBD</td>
 	<td class="currThr">TBD</td>
 	<td class="currFri">TBD</td>
@@ -85,7 +85,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 <tr>
 	<td class="currTime">1:30pm - 2:30pm</td>
 	<th class="currBlock">Block 4 (individual)</th>
-	<td class="currMon">TBD</td>
+	<td class="currMon"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
 	<td class="currTue">TBD</td>
 	<td class="currWed">TBD</td>
 	<td class="currThr">TBD</td>
@@ -167,8 +167,8 @@ Week 1 is focused on "Forming" the Bridge House Academy activity cadence, schedu
 	<td class="currMon"><p>(45m, individual) Brainstorm things you'd like to learn this session</p><p>(45m) Compare & discuss</p></td>
 	<td class="currTue">Begin BHA Building Survey</td>
 	<td class="currWed">BHA Building Survey</td>
-	<td class="currThr">BHA Building Survey</td>
-	<td class="currFri">BHA Building Survey</td>
+	<td class="currThr">Learn draw.io</td>
+	<td class="currFri">Learn draw.io</td>
 </tr>
 <tr class="currRowLunch">
 	<td class="currTime">12:00pm - 1:00pm</td>
