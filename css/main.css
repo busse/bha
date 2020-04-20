@@ -72,6 +72,12 @@ a.subinfo:link, a.subinfo:visited, a.subinfo:hover, a.subinfo:active {
 	text-decoration: none;
 }
 
+
+nav .navbar-nav li a{
+  color: #0066ff !important;
+  }
+
+
 i {
 	color: #333;
 	text-decoration: none;
@@ -167,6 +173,46 @@ font-family: 'Roboto', sans-serif;
 	
 }
 
+/* CURRICULUM TABLE STYLES */
+
+.currTable {
+	font-size: 0.7em;
+}
+
+.currRowStandup {
+	background: #DDDDDD;
+}
+
+.currRowLunch {
+	background: #DDDDDD;
+}
+
+.currBlock {
+	border-right: 1px solid #343a40;
+}
+
+.currMon {
+	border-right: 1px solid #343a40;
+}
+
+.currTue {
+	border-right: 1px solid #343a40;
+}
+
+.currWed {
+	border-right: 1px solid #343a40;
+}
+
+.currThr {
+	border-right: 1px solid #343a40;
+}
+
+/*
+.currRowJournal {
+	background: #96DCFF;
+}
+*/
+
 /* bootstrap overrides */
 
 /* navbar-brand like h1 */
@@ -183,8 +229,9 @@ font-family: 'Roboto', sans-serif;
 color: #333;
 }
 /* minimal navbar*/
-.navbar {
+.navbar .navbar-light {
 	border: 0px;
+	color: #0066ff;
 }
 .navbar-default {
 background-color: #fff;
@@ -196,7 +243,7 @@ border-color: #fff;
 	font-family: 'Roboto', sans-serif;
 	font-size: 0.9em;
 	font-weight: 400;
-	color: #000000; 
+	/*color: #000000; */
 
 }
 
