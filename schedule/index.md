@@ -50,7 +50,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currTime">9:00am - 10:30am</td>
 	<th class="currBlock">Block 1 (individual)</th>
 	<td class="currMon"><p>D: English MP3 Recovery</p><p>A: LEGO scale house outline</p></td>
-	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
+	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: LEGO scale house outline</p></td>
 	<td class="currWed"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
 	<td class="currThr"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
 	<td class="currFri"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
@@ -86,7 +86,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currTime">1:30pm - 2:30pm</td>
 	<th class="currBlock">Block 4 (individual)</th>
 	<td class="currMon"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
-	<td class="currTue">TBD</td>
+	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
 	<td class="currWed">TBD</td>
 	<td class="currThr">TBD</td>
 	<td class="currFri">TBD</td>
