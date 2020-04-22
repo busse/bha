@@ -51,7 +51,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<th class="currBlock">Block 1 (individual)</th>
 	<td class="currMon"><p>D: English MP3 Recovery</p><p>A: LEGO scale house outline</p></td>
 	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: LEGO scale house outline</p></td>
-	<td class="currWed"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
+	<td class="currWed"><p>D: English MP3 Recovery</p><p>A: Makey Makey or DaVinci Siege model kits</p></td>
 	<td class="currThr"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
 	<td class="currFri"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
 </tr>
@@ -60,7 +60,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<th class="currBlock">Block 2 (group)</th>
 	<td class="currMon">BHA Building Survey (draw.io)</td>
 	<td class="currTue">BHA Building Survey (draw.io)</td>
-	<td class="currWed">TBD</td>
+	<td class="currWed">BHA Building Survey (draw.io)</td>
 	<td class="currThr">TBD</td>
 	<td class="currFri">TBD</td>
 </tr>
@@ -87,7 +87,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<th class="currBlock">Block 4 (individual)</th>
 	<td class="currMon"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
 	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
-	<td class="currWed">TBD</td>
+	<td class="currWed"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
 	<td class="currThr">TBD</td>
 	<td class="currFri">TBD</td>
 </tr>
@@ -104,8 +104,8 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currTime">3:00pm - 4:30pm</td>
 	<th class="currBlock">Block 5 (PE)</th>
 	<td class="currMon">:umbrella:<br>Chores</td>
-	<td class="currTue">O & M<br>+ walk dog</td>
-	<td class="currWed">O & M<br>+ walk dog</td>
+	<td class="currTue">:sunny:<br>O & M<br>+ walk dog</td>
+	<td class="currWed">:sunny:<br>O & M<br>+ walk dog</td>
 	<td class="currThr">:umbrella: ?</td>
 	<td class="currFri">:umbrella: ?</td>
 </tr>
