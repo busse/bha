@@ -3,25 +3,31 @@ layout: post
 title: Curriculum
 ---
 
+_Last Updated: April 23, 2020_
+
+This page will be updated going in to Week 3 as assignments are planned out in Trello. Until then, the [Schedule](/schedule) page is the best place to get an understanding of what we're working on.
+
 # Spring/Summer 2020: April 13 - June 12
 
-# Bridge House Academy Grounds Survey
+- Bridge House Academy Grounds Survey
 
-# Kinesthetic Activities
+- Kinesthetic Activities
 
-# Foreign Language
+- Foreign Language
 
-# Journaling / Reflection
+- Journaling / Reflection
 
-# Physical Education
+- Physical Education
 
-# Nutrition
+- Nutrition
+
+- ...
 
 
 ## Public School Assignments
 
-# Edflix
+- Edflix
 
-# MP3 Recovery
+- MP3 Recovery
 
-# HS Credit Assignments
+- HS Credit Assignments
