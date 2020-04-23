@@ -19,7 +19,7 @@ As the first two weeks drew to a close, the county schools made the decision to 
 
 These assignments could only help, not hurt, the students' grades. We had made it clear to our kids that any subjects in which they got a final grade of A or B in they wouldn't have to do the work, but anything with a C, they would. After the grades were posted, our 8th-grader would need to do the work to attempt to bring up her English grade. We later learned that because she is taking high school credit courses, there would be additional required work starting May 6th to prepare those students for classes the following year (I guess because they really count).
 
-As we entered the week of "Spring Break" (always to be stylized with "air quotes" given the current situation), the need for structure in their days became imperative. On Sunday April 12th at 1:05am, in a fit of insomnia before "Spring Break" ended, the idea for the Bridge House Academy was born.
+As we entered the week of "Spring Break" (always to be stylized with "air quotes" given the current situation), the need for structure in their days became imperative. On Sunday April 12th at 1:05am, in a fit of insomnia before "Spring Break" ended, the idea for the Bridge House Academy was born (our open plan house has a catwalk bridge through the middle of it, thus the name).
 
 I saw it not just as a way to provide the structure we so badly needed, but also as a way to provide enrichment education opportunities for the kids in areas of their respective interest, as well as opportunities to work on things they could use strengthening in.
 
