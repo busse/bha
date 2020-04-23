@@ -3,6 +3,8 @@ layout: post
 title: About
 ---
 
+_Last Updated: April 23, 2020_
+
 ## Background
 
 On Friday, March 13, 2020 our children's public schools closed for two weeks due to the COVID-19 Coronavirus Pandemic. That Monday, March 16 the students were all given "virtual assignments" to complete while the school administration determined next steps. Thankfully our kids (6th & 8th grade, Middle School in our county) are both assigned laptops by the school so the actual delivery and completion of these assignments was easy to facilitate.
