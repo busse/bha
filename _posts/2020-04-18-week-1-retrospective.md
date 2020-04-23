@@ -2,10 +2,10 @@
 title: Week 1 Retrospective - Launch, Forming Structure and Context
 seq: 200419
 category: Retrospectives
-og-image: /images/ss20w1-white-board.jpg
+og-image: /images/ss20w1-white-board.jpeg
 ---
 
-<img src="/images/ss20w1-white-board.jpg" align="right" width="40%">Coming out of "Spring Break" we were facing the proposition of our fourth week working from home with the kids sleeping past noon and spending the rest of their time time playing The Sims. Something had to change. Thus, Bridge House Academy was born. You can read more about that (and parts of this post may make more sense) if you read the [About](/about) page, but it's long, maybe save it for the end. 
+<img src="/images/ss20w1-white-board.jpeg" align="right" width="40%">Coming out of "Spring Break" we were facing the proposition of our fourth week working from home with the kids sleeping past noon and spending the rest of their time time playing The Sims. Something had to change. Thus, Bridge House Academy was born. You can read more about that (and parts of this post may make more sense) if you read the [About](/about) page, but it's long, maybe save it for the end. 
 
 The rest of this post is a retrospective of Spring/Summer 2020 Week 1 at Bridge House Academy (BHA): What we did, what went well, what we should keep/do more of, what we should stop doing or change.
 
