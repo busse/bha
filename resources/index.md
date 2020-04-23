@@ -3,7 +3,9 @@ layout: post
 title: Resources
 ---
 
-_This page will be updated as more resources are brought into the mix._
+_Last Updated: April 23, 2020_
+
+_This page will be updated during Week 3 and continually as more resources are brought into the mix._
 
 ## Methods
 
