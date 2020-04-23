@@ -18,7 +18,7 @@ During this time, ad-hoc adjustments to the day's schedule are made. For example
 
 Also, we initiated the BHA concept and the scheduling & organization for Spring/Summer 2020 using the concept of "Forming, Norming, Storming"
 
-### Daily Standups
+### Weekly Retrospectives
 Friday's Journal/Reflection assignment is used by the Learners to write about how things went during the week at BHA, what went well, what didn't; what should we keep doing, what should we consider changing. The Facilitator (Busse) spends some time over the weekend writing a longer retrospective on the week that is published for this site and is intended to take a broad look at the week both from the work that was done, and at a meta-level, how it was done, to identify changes to the BHA process, curriculum & assingments, tooling, and other activities.
 
 ## Tools
