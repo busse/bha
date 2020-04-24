@@ -53,7 +53,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: LEGO scale house outline</p></td>
 	<td class="currWed"><p>D: English MP3 Recovery</p><p>A: Makey Makey or DaVinci Siege model kits</p></td>
 	<td class="currThr"><p>D: English MP3 Recovery</p><p>A: Bake: Small things with chocolate chips (muffins, cupcakes, cookies, etc.)</p></td>
-	<td class="currFri"><p>D: English MP3 Recovery</p><p>A: TBD</p></td>
+	<td class="currFri"><p>D: English MP3 Recovery</p><p>A: Prep things for 3:30 demo</p></td>
 </tr>
 <tr>
 	<td class="currTime">10:30am - 12:00pm</td>
@@ -62,7 +62,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currTue">BHA Building Survey (draw.io)</td>
 	<td class="currWed">BHA Building Survey (draw.io)</td>
 	<td class="currThr">BHA Building Survey (draw.io)</td>
-	<td class="currFri">TBD</td>
+	<td class="currFri"><p>D: English MP3 Recovery (Zoom w/ teacher)x</p><p>A: Calculate square footage of BHA Building outline</p></td>
 </tr>
 <tr class="currRowLunch">
 	<td class="currTime">12:00pm - 1:00pm</td>
@@ -88,8 +88,8 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currMon"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
 	<td class="currTue"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
 	<td class="currWed"><p>D: English MP3 Recovery</p><p>A: Maker Project tooling research (3D printer, lathe, ...)</p></td>
-	<td class="currThr"><p>D: English MP3 Recovery</p><p>A: 3D printer vs. Lathe: Equipment  & Top 3 projects cost analysis</p></td>
-	<td class="currFri">TBD</td>
+	<td class="currThr"><p>D: English MP3 Recovery</p><p>A: 3D printer vs. Lathe: Equipment & Top 3 projects cost analysis</p></td>
+	<td class="currFri"><p>D: English MP3 Recovery</p><p>A: 3D printer vs. Lathe: Equipment & Top 3 projects cost analysis</p></td>
 </tr>
 <tr  class="currRowJournal">
 	<td class="currTime">2:30pm - 3:00pm</td>
@@ -107,7 +107,7 @@ Week 2 continues many of the themes of Week 1, although the School Identity proj
 	<td class="currTue">:sunny:<br>O & M<br>+ walk dog</td>
 	<td class="currWed">:sunny:<br>O & M<br>+ walk dog</td>
 	<td class="currThr">:umbrella: <br>(group) Peloton Dance Exercises<br>(group) Peloton Yoga/Bike Stretch</td>
-	<td class="currFri">:umbrella: ?<br>3:30pm:  Demo Block</td>
+	<td class="currFri">:umbrella:<br>3:00pm: Final Demo  Prep<br>3:30pm:  Demo Block</td>
 </tr>
 
 </tbody>

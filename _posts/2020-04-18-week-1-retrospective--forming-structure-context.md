@@ -25,7 +25,7 @@ A rough outline of their day ahead (and each day during the week), was written o
   - 2:30pm - 3:00pm: Reflection / Journaling
   - 3:00pm - 4:30pm: Block 4 (PE): Outside & Moving!
 
-Voila! We now had the *structure* for the day that we so badly needly.
+Voila! We now had the *structure* for the day that we so badly needed.
 
 The "Day 1" block themes were very forming-focused, and were assigned as:
 
