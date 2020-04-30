@@ -51,8 +51,8 @@ Week 3 is "Art Week"! With the knowledge that more county-mandated schooling for
 	<td class="currMon"><p>Open Studio - analog media only</p></td>
 	<td class="currTue"><p>Collages</p></td>
 	<td class="currWed"><p>"Show don't tell": "Day in the life of an animal" - any medium incl. written word</p></td>
-	<td class="currWed"><p>Sculpture</p></td>
-	<td class="currFri"><p>TBD</p></td>
+	<td class="currWed"><p>"Show don't tell": "Day in the life of an animal" - cont'd</p></td>
+	<td class="currFri"><p>Sculpture</p></td>
 </tr>
 <tr>
 	<td class="currTime">10:30am - 12:00pm</td>
