@@ -52,7 +52,7 @@ Week 3 is "Art Week"! With the knowledge that more county-mandated schooling for
 	<td class="currTue"><p>Collages</p></td>
 	<td class="currWed"><p>"Show don't tell": "Day in the life of an animal" - any medium incl. written word</p></td>
 	<td class="currWed"><p>"Show don't tell": "Day in the life of an animal" - cont'd</p></td>
-	<td class="currFri"><p>Sculpture</p></td>
+	<td class="currFri"><p>"Show don't tell": "Day in the life of an animal" - cont'd</p></td>
 </tr>
 <tr>
 	<td class="currTime">10:30am - 12:00pm</td>
@@ -61,7 +61,7 @@ Week 3 is "Art Week"! With the knowledge that more county-mandated schooling for
 	<td class="currTue">Play writing</td>
 	<td class="currWed">Play writing</td>
 	<td class="currThr">Play writing/rehearsal</td>
-	<td class="currFri">Play writing/rehearsal</td>
+	<td class="currFri">Play rehearsal</td>
 </tr>
 <tr class="currRowLunch">
 	<td class="currTime">12:00pm - 1:00pm</td>
@@ -88,7 +88,7 @@ Week 3 is "Art Week"! With the knowledge that more county-mandated schooling for
 	<td class="currTue"><p>Color media (digital) flowers/plants</p></td>
 	<td class="currWed"><p>Color media (analog) flowers/plants - outside</p></td>
 	<td class="currThr"><p>:umbrella: Sketch still life</p></td>
-	<td class="currFri"><p>TBD</p></td>
+	<td class="currFri"><p>:umbrella: LEGO time</p></td>
 </tr>
 <tr  class="currRowJournal">
 	<td class="currTime">2:30pm - 3:00pm</td>
