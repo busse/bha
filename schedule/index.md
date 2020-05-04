@@ -7,6 +7,111 @@ title: Schedule
 
 Weekly schedules are posted in reverse-chronological order so that the current week's schedule is at the top of the page.
 
+## <a name="#week4">Week 4: May 4 - May 8</a>
+
+Week 4 is a transition week. On May 6th we'll need to begin work from the public schools that will presumably run through June 12. More info on that as it comes. This might even necessitate a change in the overall schedule structure.
+
+### Curriculum Focus
+
+  - Block 1 (individual): Open Studio / individual assignments
+  - Block 2 (team): TBD
+  - Block 3 (individual): Foreign Language 
+  - Block 4 (individual): TBD
+  - Block 5 (PE): Outside & Moving! 
+
+### Daily Schedule
+
+<table class="table table-striped currTable">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Time</th>
+      <th scope="col">Block</th>
+      <th scope="col">Monday 5/4</th>
+      <th scope="col">Tuesday 5/5</th>
+      <th scope="col">Wednesday 5/6</th>
+      <th scope="col">Thursday 5/7</th>
+      <th scope="col">Friday 5/8</th>
+    </tr>
+  </thead>
+<tbody>	
+<tr class="currRowStandup">
+	<td class="currTime">8:30am - 9:00am</td>
+	<th scope="row" class="currBlock">Stand Up</th>
+	<td class="currMon"></td>
+	<td class="currTue"></td>
+	<td class="currWed"></td>
+	<td class="currThr"></td>
+	<td class="currFri"></td>
+</tr>
+
+<tr>
+	<td class="currTime">9:00am - 10:30am</td>
+	<th class="currBlock">Block 1 (individual)</th>
+	<td class="currMon"><p>Collage from nature</p></td>
+	<td class="currTue"><p>TBD</p></td>
+	<td class="currWed"><p>TBD</p></td>
+	<td class="currWed"><p>TBD</p></td>
+	<td class="currFri"><p>TBD</p></td>
+</tr>
+<tr>
+	<td class="currTime">10:30am - 12:00pm</td>
+	<th class="currBlock">Block 2 (group)</th>
+	<td class="currMon">D&D</td>
+	<td class="currTue">TBD</td>
+	<td class="currWed">TBD</td>
+	<td class="currThr">TBD</td>
+	<td class="currFri"></td>
+</tr>
+<tr class="currRowLunch">
+	<td class="currTime">12:00pm - 1:00pm</td>
+	<th class="currBlock">Lunch / Chores</th>
+	<td class="currMon"></td>
+	<td class="currTue"></td>
+	<td class="currWed"></td>
+	<td class="currThr"></td>
+	<td class="currFri"></td>
+</tr>
+<tr>
+	<td class="currTime">1:00pm - 1:30pm</td>
+	<th class="currBlock">Block 3 (individual, language)</th>
+	<td class="currMon">Duolingo</td>
+	<td class="currTue">Duolingo</td>
+	<td class="currWed">Duolingo</td>
+	<td class="currThr">Duolingo</td>
+	<td class="currFri">Duolingo</td>
+</tr>
+<tr>
+	<td class="currTime">1:30pm - 2:30pm</td>
+	<th class="currBlock">Block 4 (individual)</th>
+	<td class="currMon"><p>EdFlix "Time Slot 2": Enrichment Work in Schoology</p></td>
+	<td class="currTue"><p>EdFlix "Time Slot 2": Enrichment Work in Schoology</p></td>
+	<td class="currWed"><p>TBD</p></td>
+	<td class="currThr"><p>TBD</p></td>
+	<td class="currFri"><p>TBD</p></td>
+</tr>
+<tr  class="currRowJournal">
+	<td class="currTime">2:30pm - 3:00pm</td>
+	<th class="currBlock">Journaling / Reflection</th>
+	<td class="currMon">Journaling</td>
+	<td class="currTue">Journaling</td>
+	<td class="currWed">Journaling</td>
+	<td class="currThr">Journaling</td>
+	<td class="currFri">"Reflecting on BHA Week 4"</td>
+</tr>
+<tr>
+	<td class="currTime">3:00pm - 4:30pm</td>
+	<th class="currBlock">Block 5 (PE)</th>
+	<td class="currMon">:sunny:<br>O & M<br>+ walk dog</td>
+	<td class="currTue">:umbrella:<br>(group) Peloton Dance Exercises<br>(group) Peloton Yoga/Bike Stretch</td>
+	<td class="currWed">:umbrella:<br>(group) Peloton Dance Exercises<br>(group) Peloton Yoga/Bike Stretch</td>
+	<td class="currThr">:sunny: <br>O & M<br>+ walk dog</td>
+	<td class="currFri">:umbrella:<br>3:00pm: Final Demo  Prep<br>3:30pm:  Demo Block</td>
+</tr>
+
+</tbody>
+</table>
+<hr>
+
 
 ## <a name="#week3">Week 3: April 27 - May 1</a>
 
