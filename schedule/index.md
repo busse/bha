@@ -48,7 +48,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currTime">9:00am - 10:30am</td>
 	<th class="currBlock">Block 1 (individual)</th>
 	<td class="currMon"><p>Collage from nature</p></td>
-	<td class="currTue"><p>TBD</p></td>
+	<td class="currTue"><p>Painting of nature collage, add in creatures (real or imaginary) to fill canvas</p></td>
 	<td class="currWed"><p>TBD</p></td>
 	<td class="currWed"><p>TBD</p></td>
 	<td class="currFri"><p>TBD</p></td>
@@ -57,7 +57,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currTime">10:30am - 12:00pm</td>
 	<th class="currBlock">Block 2 (group)</th>
 	<td class="currMon">D&D</td>
-	<td class="currTue">TBD</td>
+	<td class="currTue">D&D</td>
 	<td class="currWed">TBD</td>
 	<td class="currThr">TBD</td>
 	<td class="currFri"></td>
