@@ -49,7 +49,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<th class="currBlock">Block 1 (individual)</th>
 	<td class="currMon"><p>Collage from nature</p></td>
 	<td class="currTue"><p>Painting of nature collage, add in creatures (real or imaginary) to fill canvas</p></td>
-	<td class="currWed"><p>TBD</p></td>
+	<td class="currWed"><p>D: Art 1<br />A: Math</p></td>
 	<td class="currWed"><p>TBD</p></td>
 	<td class="currFri"><p>TBD</p></td>
 </tr>
@@ -58,7 +58,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<th class="currBlock">Block 2 (group)</th>
 	<td class="currMon">D&D</td>
 	<td class="currTue">D&D</td>
-	<td class="currWed">TBD</td>
+	<td class="currWed">Social Studies / WH&G1</td>
 	<td class="currThr">TBD</td>
 	<td class="currFri"></td>
 </tr>
@@ -76,7 +76,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<th class="currBlock">Block 3 (individual, language)</th>
 	<td class="currMon">Duolingo</td>
 	<td class="currTue">Duolingo</td>
-	<td class="currWed">Duolingo</td>
+	<td class="currWed">D: Spanish<br />A: English</td>
 	<td class="currThr">Duolingo</td>
 	<td class="currFri">Duolingo</td>
 </tr>
@@ -85,7 +85,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<th class="currBlock">Block 4 (individual)</th>
 	<td class="currMon"><p>EdFlix "Time Slot 2": Enrichment Work in Schoology</p></td>
 	<td class="currTue"><p>EdFlix "Time Slot 2": Enrichment Work in Schoology</p></td>
-	<td class="currWed"><p>TBD</p></td>
+	<td class="currWed"><p>Science</p></td>
 	<td class="currThr"><p>TBD</p></td>
 	<td class="currFri"><p>TBD</p></td>
 </tr>
@@ -94,7 +94,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<th class="currBlock">Journaling / Reflection</th>
 	<td class="currMon">Journaling</td>
 	<td class="currTue">Journaling</td>
-	<td class="currWed">Journaling</td>
+	<td class="currWed">Journaling / school assignments / organization</td>
 	<td class="currThr">Journaling</td>
 	<td class="currFri">"Reflecting on BHA Week 4"</td>
 </tr>
@@ -103,7 +103,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<th class="currBlock">Block 5 (PE)</th>
 	<td class="currMon">:sunny:<br>O & M<br>+ walk dog</td>
 	<td class="currTue">:umbrella:<br>(group) Peloton Dance Exercises<br>(group) Peloton Yoga/Bike Stretch</td>
-	<td class="currWed">:umbrella:<br>(group) Peloton Dance Exercises<br>(group) Peloton Yoga/Bike Stretch</td>
+	<td class="currWed">:sunny::cloud:<br>O & M<br>+ walk dog</td>
 	<td class="currThr">:sunny: <br>O & M<br>+ walk dog</td>
 	<td class="currFri">:umbrella:<br>3:00pm: Final Demo  Prep<br>3:30pm:  Demo Block</td>
 </tr>
