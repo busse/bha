@@ -50,8 +50,8 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currMon"><p>Collage from nature</p></td>
 	<td class="currTue"><p>Painting of nature collage, add in creatures (real or imaginary) to fill canvas</p></td>
 	<td class="currWed"><p>D: Art 1<br />A: Math</p></td>
-	<td class="currWed"><p>TBD</p></td>
-	<td class="currFri"><p>TBD</p></td>
+	<td class="currWed"><p>D: Art 1<br />A: Math</p></td>
+	<td class="currFri"><p>D: Art 1<br />A: Math</p></td>
 </tr>
 <tr>
 	<td class="currTime">10:30am - 12:00pm</td>
@@ -59,7 +59,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currMon">D&D</td>
 	<td class="currTue">D&D</td>
 	<td class="currWed">Social Studies / WH&G1</td>
-	<td class="currThr">TBD</td>
+	<td class="currThr">Social Studies / WH&G1</td>
 	<td class="currFri"></td>
 </tr>
 <tr class="currRowLunch">
@@ -77,8 +77,8 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currMon">Duolingo</td>
 	<td class="currTue">Duolingo</td>
 	<td class="currWed">D: Spanish<br />A: English</td>
-	<td class="currThr">Duolingo</td>
-	<td class="currFri">Duolingo</td>
+	<td class="currThr">D: Spanish<br />A: English</td>
+	<td class="currFri">D: Spanish<br />A: English</td>
 </tr>
 <tr>
 	<td class="currTime">1:30pm - 2:30pm</td>
@@ -86,8 +86,8 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currMon"><p>EdFlix "Time Slot 2": Enrichment Work in Schoology</p></td>
 	<td class="currTue"><p>EdFlix "Time Slot 2": Enrichment Work in Schoology</p></td>
 	<td class="currWed"><p>Science</p></td>
-	<td class="currThr"><p>TBD</p></td>
-	<td class="currFri"><p>TBD</p></td>
+	<td class="currThr"><p>Science</p></td>
+	<td class="currFri"><p>Science</p></td>
 </tr>
 <tr  class="currRowJournal">
 	<td class="currTime">2:30pm - 3:00pm</td>
@@ -95,7 +95,7 @@ Week 4 is a transition week. On May 6th we'll need to begin work from the public
 	<td class="currMon">Journaling</td>
 	<td class="currTue">Journaling</td>
 	<td class="currWed">Journaling / school assignments / organization</td>
-	<td class="currThr">Journaling</td>
+	<td class="currThr">Journaling / school assignments / organization</td>
 	<td class="currFri">"Reflecting on BHA Week 4"</td>
 </tr>
 <tr>
